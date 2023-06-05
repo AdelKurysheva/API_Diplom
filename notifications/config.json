@@ -1,0 +1,17 @@
+{
+  "base": {
+    "project": "project qa.quru",
+    "environment": "qa_quru",
+    "comment": "Some comment",
+    "reportLink": "https://jenkins.autotests.cloud/job/",
+    "language": "en",
+    "messenger": "telegram",
+    "allureFolder": "allure-report/",
+    "enableChart": true
+  },
+  "telegram": {
+    "token": "6070980940:AAHAZiWU8jlLgJkTnw2BKjl1uiawoTdGOgs",
+    "chat": "-1001929516851",
+    "replyTo": ""
+  }
+}
