@@ -21,7 +21,7 @@ public class AuthTest {
         LoginBodyModel data = new LoginBodyModel();
         data.setEmail("peter@klaven");
 
-        LoginErrorResponseModel responseBody = step("Data entry", () ->
+        LoginErrorResponseModel responseBody = step("Make request", () ->
                 given(reqresRequest)
                         .body(data)
                         .when()
@@ -30,7 +30,7 @@ public class AuthTest {
                         .spec(responseFailed)
                         .extract().as(LoginErrorResponseModel.class));
 
-        step("Error checking", () -> {
+        step("Verify response", () -> {
             assertThat(responseBody.getError()).isEqualTo("Missing password");
         });
     }
