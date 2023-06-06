@@ -27,6 +27,7 @@ public class UserTests {
                         .log().body()
                         .spec(Specs.response)
                         .extract().as(GetUserDataModel.class));
+
         step("Verify response", () ->
                 assertThat(data.getUser().getEmail()).isEqualTo("janet.weaver@reqres.in"));
     }
