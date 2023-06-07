@@ -40,7 +40,7 @@
 - ✓ Удаление данных
 
 <a id="jenkins"></a>
-## <img src="media/logo/Jenkins.svg" width="20" height="20"  alt="Jenkins"/></a> Сборка в <a target="_blank" href="https://jenkins.autotests.cloud/job/Rest_Api_Kurysheva/"> Jenkins </a>
+## <img src="media/logo/Jenkins.svg" width="25" height="25"  alt="Jenkins"/></a> Сборка в <a target="_blank" href="https://jenkins.autotests.cloud/job/Rest_Api_Kurysheva/"> Jenkins </a>
 <p align="center">
 <a href="https://jenkins.autotests.cloud/job/Rest_Api_Kurysheva/"><img src="media/screens/jenkins.jpg" alt="Jenkins1"/></a>
 </p>
@@ -64,7 +64,7 @@ gradle clean test
 clean test
 ```
 <a id="allureReport"></a>
-## <img width="7%" style="vertical-align:middle" title="Allure Report" src="media/logo/Allure.svg"> </a> Пример <a target="_blank" href="https://jenkins.autotests.cloud/job/Rest_Api_Kurysheva/allure/"> Allure-отчета </a>
+## <img width="4%" style="vertical-align:middle" title="Allure Report" src="media/logo/Allure.svg"> </a> Пример <a target="_blank" href="https://jenkins.autotests.cloud/job/Rest_Api_Kurysheva/allure/"> Allure-отчета </a>
 ## ⛅: Основной отчет
 
 <p align="center">
@@ -72,7 +72,7 @@ clean test
 </p>
 
 <a id="allure"></a>
-## <img src="media/logo/AllureTestOps.svg" width="20" height="20"  alt="Allure_TO"/></a> Интеграция с  <a target="_blank" href="https://allure.autotests.cloud/project/3351/dashboards"> Allure TestOps</a>
+## <img src="media/logo/AllureTestOps.svg" width="25" height="25"  alt="Allure_TO"/></a> Интеграция с  <a target="_blank" href="https://allure.autotests.cloud/project/3351/dashboards"> Allure TestOps</a>
 
 ## :bar_chart:: Доска
 На *Dashboard* в <code>Allure TestOps</code> видна статистика количества тестов. Новые тесты, а так же результаты прогона приходят по интеграции при каждом запуске сборки.
@@ -92,7 +92,7 @@ clean test
 </p>
 
 <a id="tg"></a>
-## <img src="media/logo/Telegram.svg" width="20" height="20"  alt="Telegram"/></a> Уведомления в телеграм с использованием бота 
+## <img src="media/logo/Telegram.svg" width="25" height="25"  alt="Telegram"/></a> Уведомления в телеграм с использованием бота 
 После завершения сборки специальный бот, созданный в <code>Telegram</code>, автоматически обрабатывает и отправляет сообщение с отчетом о прогоне тестов.
 
 <p align="center">
