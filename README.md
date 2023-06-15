@@ -64,7 +64,7 @@ gradle clean test
 clean test
 ```
 <a id="allureReport"></a>
-## <img width="4%" style="vertical-align:middle" title="Allure Report" src="media/logo/Allure.svg"> </a> Пример <a target="_blank" href="https://jenkins.autotests.cloud/job/Rest_Api_Kurysheva/allure/"> Allure-отчета </a>
+## <img width="4%" style="vertical-align:middle" title="Allure Report" src="media/logo/Allure.svg"> </a> Пример <a target="_blank" href="https://jenkins.autotests.cloud/job/Students/job/Rest_Api_Kurysheva/8/allure/"> Allure-отчета </a>
 ## ⛅: Основной отчет
 
 <p align="center">
