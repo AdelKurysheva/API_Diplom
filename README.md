@@ -40,7 +40,7 @@
 - ✓ Удаление данных
 
 <a id="jenkins"></a>
-## <img src="media/logo/Jenkins.svg" width="25" height="25"  alt="Jenkins"/></a> Сборка в <a target="_blank" href="https://jenkins.autotests.cloud/job/Rest_Api_Kurysheva/"> Jenkins </a>
+## <img src="media/logo/Jenkins.svg" width="25" height="25"  alt="Jenkins"/></a> Сборка в <a target="_blank" href="https://jenkins.autotests.cloud/job/Students/job/Rest_Api_Kurysheva/"> Jenkins </a>
 <p align="center">
 <a href="https://jenkins.autotests.cloud/job/Rest_Api_Kurysheva/"><img src="media/screens/jenkins.jpg" alt="Jenkins1"/></a>
 </p>
